@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T11:23:43.739Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="YLBaWX0SmYlp4YvYw29F" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T11:29:24.786Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="b6NB91AkoA9mhwX_6vlU" version="21.2.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="474" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EHjQBpC3ZK9PzEhTugLk-2" value="Pengunjung" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="EHjQBpC3ZK9PzEhTugLk-2" value="Aktor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EHjQBpC3ZK9PzEhTugLk-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
@@ -16,8 +16,8 @@
         <mxCell id="EHjQBpC3ZK9PzEhTugLk-8" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EHjQBpC3ZK9PzEhTugLk-9" value="Halaman Utama" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="355" y="160" width="110" height="30" as="geometry" />
+        <mxCell id="EHjQBpC3ZK9PzEhTugLk-9" value="Halaman Kondisi Ruangan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="325" y="160" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EHjQBpC3ZK9PzEhTugLk-10" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="100" height="80" as="geometry" />
