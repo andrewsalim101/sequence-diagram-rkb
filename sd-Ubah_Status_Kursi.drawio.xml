@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T13:52:39.057Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="KkVmdwrUemVhk7-GxqUr" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T13:57:04.436Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="P3wmVBQtXzN1FGLcvR_6" version="21.2.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="677" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -154,8 +154,8 @@
         <mxCell id="EHjQBpC3ZK9PzEhTugLk-50" value="show" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="972" y="550" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPZShbhbXSQOxv8R8XvQ-5" value="[isKodeWrong=true]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="499.5" width="130" height="30" as="geometry" />
+        <mxCell id="WPZShbhbXSQOxv8R8XvQ-5" value="[idKursi != kode]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="499.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WPZShbhbXSQOxv8R8XvQ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EHjQBpC3ZK9PzEhTugLk-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -163,8 +163,8 @@
             <mxPoint x="639" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WPZShbhbXSQOxv8R8XvQ-11" value="[isKodeWrong=false]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="560" width="130" height="30" as="geometry" />
+        <mxCell id="WPZShbhbXSQOxv8R8XvQ-11" value="[idKursi == kode]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WPZShbhbXSQOxv8R8XvQ-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
