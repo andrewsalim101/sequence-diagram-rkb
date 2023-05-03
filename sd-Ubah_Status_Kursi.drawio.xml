@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T13:57:04.436Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="P3wmVBQtXzN1FGLcvR_6" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T13:58:52.788Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="4ja6NDoY4BPS6itdSF5W" version="21.2.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="677" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="729" dy="1182" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,9 @@
             <mxPoint x="330" y="688" as="sourcePoint" />
             <mxPoint x="1370" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WPZShbhbXSQOxv8R8XvQ-39" value="Interaction Ubah Status Kursi" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=100;height=30;" vertex="1" parent="1">
+          <mxGeometry width="1520" height="880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
